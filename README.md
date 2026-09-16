@@ -422,7 +422,8 @@ interface IColorService {
 ```
 
 ## OUTPUT
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2322ca4b-2dc7-4612-ac2e-e4d29ac7edf8" />
+
+<img width="346" height="772" alt="image" src="https://github.com/user-attachments/assets/2322ca4b-2dc7-4612-ac2e-e4d29ac7edf8" />
 
 ## RESULT
 Thus a Simple Android Application to create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio is developed and executed successfully.
